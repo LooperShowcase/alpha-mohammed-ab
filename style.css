@@ -1,0 +1,53 @@
+#htr {
+  background-color: rgb(0, 8, 255);
+  color: rgb(255, 240, 240);
+  font-family: "Edu TAS Beginner", cursive;
+}
+
+body {
+  font-family: "Edu TAS Beginner", cursive;
+}
+
+#htv {
+  background-color: rgb(255, 0, 0);
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+table,
+tr,
+th,
+td {
+  border: solid 3px rgb(0, 8, 255);
+}
+
+#first_line {
+  background-color: yellow;
+}
+
+#second_line {
+  background-color: orange;
+}
+#loor_line {
+  background-color: chartreuse;
+}
